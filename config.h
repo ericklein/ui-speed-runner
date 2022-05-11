@@ -1,8 +1,7 @@
 // conditional compile flags
 #define DEBUG 	// Output to serial port
 //#define RJ45  	// use Ethernet
-#define WIFI    	// use WiFi
-#define	SCREEN		// use screen as output
+//#define WIFI    	// use WiFi
 
 #define SCREEN_DISPLAY_PERIOD 5000
 
